@@ -1,6 +1,6 @@
 # SimpleSpringCRUD
-This is a simple CRUD made with Spring Boot
-Dependencies used are:
+This is a simple CRUD made with these Spring Boot
+Dependencies:
 
 -Web
 
